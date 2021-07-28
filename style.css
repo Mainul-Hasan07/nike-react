@@ -1,0 +1,16 @@
+.head-bg{
+    background-color:rgba(255, 249, 244, 1) ;
+}
+.nike-head-color{
+    color:rgba(250, 128, 76, 1);
+}
+.nike-head-text{
+    width: 357px;
+}
+.btn-color{
+    color: #fff;
+    background-color: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+.nike-shoes-area{
+    padding:18px;
+}
